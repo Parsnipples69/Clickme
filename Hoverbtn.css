@@ -71,3 +71,10 @@ html, body {
 .btn:active {
     color: #000;
 }
+.container {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    transform: scale(0.5);
+    height: 100vh;
+}
